@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AryaAM2005/leetcode/tree/master/0155-min-stack) |
+## Array
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/AryaAM2005/leetcode/tree/master/0289-game-of-life) |
+## Matrix
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/AryaAM2005/leetcode/tree/master/0289-game-of-life) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/AryaAM2005/leetcode/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
