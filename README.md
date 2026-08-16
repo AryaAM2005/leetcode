@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AryaAM2005/leetcode/tree/master/0136-single-number) |
 | [0289-game-of-life](https://github.com/AryaAM2005/leetcode/tree/master/0289-game-of-life) |
 | [2029-stone-game-ix](https://github.com/AryaAM2005/leetcode/tree/master/2029-stone-game-ix) |
 ## Matrix
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/AryaAM2005/leetcode/tree/master/2029-stone-game-ix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/AryaAM2005/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
