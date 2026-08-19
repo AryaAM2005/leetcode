@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AryaAM2005/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AryaAM2005/leetcode/tree/master/0136-single-number) |
 | [0212-word-search-ii](https://github.com/AryaAM2005/leetcode/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/AryaAM2005/leetcode/tree/master/0289-game-of-life) |
@@ -82,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/AryaAM2005/leetcode/tree/master/0212-word-search-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AryaAM2005/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AryaAM2005/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
