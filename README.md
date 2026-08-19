@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/AryaAM2005/leetcode/tree/master/0212-word-search-ii) |
+| [0290-word-pattern](https://github.com/AryaAM2005/leetcode/tree/master/0290-word-pattern) |
 ## Backtracking
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AryaAM2005/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0290-word-pattern](https://github.com/AryaAM2005/leetcode/tree/master/0290-word-pattern) |
 ## Union-Find
 |  |
 | ------- |
