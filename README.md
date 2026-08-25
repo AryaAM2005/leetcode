@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/AryaAM2005/leetcode/tree/master/0018-4sum) |
 | [0128-longest-consecutive-sequence](https://github.com/AryaAM2005/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AryaAM2005/leetcode/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/AryaAM2005/leetcode/tree/master/0200-number-of-islands) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/AryaAM2005/leetcode/tree/master/0018-4sum) |
 | [0143-reorder-list](https://github.com/AryaAM2005/leetcode/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AryaAM2005/leetcode/tree/master/0200-number-of-islands) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/AryaAM2005/leetcode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
