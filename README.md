@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AryaAM2005/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/AryaAM2005/leetcode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/AryaAM2005/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/AryaAM2005/leetcode/tree/master/0155-min-stack) |
 ## Design
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/AryaAM2005/leetcode/tree/master/0018-4sum) |
+| [0085-maximal-rectangle](https://github.com/AryaAM2005/leetcode/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/AryaAM2005/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AryaAM2005/leetcode/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/AryaAM2005/leetcode/tree/master/0200-number-of-islands) |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/AryaAM2005/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/AryaAM2005/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/AryaAM2005/leetcode/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/AryaAM2005/leetcode/tree/master/0289-game-of-life) |
@@ -131,8 +134,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AryaAM2005/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/AryaAM2005/leetcode/tree/master/0085-maximal-rectangle) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AryaAM2005/leetcode/tree/master/0032-longest-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/AryaAM2005/leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
