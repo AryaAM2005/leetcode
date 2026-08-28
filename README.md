@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AryaAM2005/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/AryaAM2005/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/AryaAM2005/leetcode/tree/master/0155-min-stack) |
 ## Design
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AryaAM2005/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/AryaAM2005/leetcode/tree/master/0065-valid-number) |
 | [0212-word-search-ii](https://github.com/AryaAM2005/leetcode/tree/master/0212-word-search-ii) |
 | [0290-word-pattern](https://github.com/AryaAM2005/leetcode/tree/master/0290-word-pattern) |
@@ -125,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/AryaAM2005/leetcode/tree/master/0018-4sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/AryaAM2005/leetcode/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/AryaAM2005/leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
