@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AryaAM2005/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/AryaAM2005/leetcode/tree/master/0065-valid-number) |
+| [0087-scramble-string](https://github.com/AryaAM2005/leetcode/tree/master/0087-scramble-string) |
 | [0212-word-search-ii](https://github.com/AryaAM2005/leetcode/tree/master/0212-word-search-ii) |
 | [0290-word-pattern](https://github.com/AryaAM2005/leetcode/tree/master/0290-word-pattern) |
 ## Backtracking
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AryaAM2005/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/AryaAM2005/leetcode/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/AryaAM2005/leetcode/tree/master/0087-scramble-string) |
 ## Bracket Sequences
 |  |
 | ------- |
