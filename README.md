@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AryaAM2005/leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/AryaAM2005/leetcode/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/AryaAM2005/leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/AryaAM2005/leetcode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/AryaAM2005/leetcode/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/AryaAM2005/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AryaAM2005/leetcode/tree/master/0136-single-number) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AryaAM2005/leetcode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/AryaAM2005/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/AryaAM2005/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/AryaAM2005/leetcode/tree/master/0212-word-search-ii) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AryaAM2005/leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/AryaAM2005/leetcode/tree/master/0060-permutation-sequence) |
 | [2029-stone-game-ix](https://github.com/AryaAM2005/leetcode/tree/master/2029-stone-game-ix) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AryaAM2005/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
