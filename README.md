@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/AryaAM2005/leetcode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/AryaAM2005/leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/AryaAM2005/leetcode/tree/master/0143-reorder-list) |
 ## Math
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/AryaAM2005/leetcode/tree/master/0044-wildcard-matching) |
 | [2029-stone-game-ix](https://github.com/AryaAM2005/leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AryaAM2005/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/AryaAM2005/leetcode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/AryaAM2005/leetcode/tree/master/0065-valid-number) |
 | [0087-scramble-string](https://github.com/AryaAM2005/leetcode/tree/master/0087-scramble-string) |
 | [0212-word-search-ii](https://github.com/AryaAM2005/leetcode/tree/master/0212-word-search-ii) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AryaAM2005/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/AryaAM2005/leetcode/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/AryaAM2005/leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/AryaAM2005/leetcode/tree/master/0087-scramble-string) |
 ## Bracket Sequences
