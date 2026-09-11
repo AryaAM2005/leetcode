@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AryaAM2005/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/AryaAM2005/leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/AryaAM2005/leetcode/tree/master/0060-permutation-sequence) |
 | [2029-stone-game-ix](https://github.com/AryaAM2005/leetcode/tree/master/2029-stone-game-ix) |
