@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AryaAM2005/leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/AryaAM2005/leetcode/tree/master/0018-4sum) |
+| [0039-combination-sum](https://github.com/AryaAM2005/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/AryaAM2005/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/AryaAM2005/leetcode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/AryaAM2005/leetcode/tree/master/0085-maximal-rectangle) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/AryaAM2005/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/AryaAM2005/leetcode/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/AryaAM2005/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/AryaAM2005/leetcode/tree/master/0077-combinations) |
