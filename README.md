@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AryaAM2005/leetcode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/AryaAM2005/leetcode/tree/master/0289-game-of-life) |
 ## Linked List
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/AryaAM2005/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/AryaAM2005/leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/AryaAM2005/leetcode/tree/master/0060-permutation-sequence) |
+| [0067-add-binary](https://github.com/AryaAM2005/leetcode/tree/master/0067-add-binary) |
 | [2029-stone-game-ix](https://github.com/AryaAM2005/leetcode/tree/master/2029-stone-game-ix) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AryaAM2005/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AryaAM2005/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/AryaAM2005/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/AryaAM2005/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/AryaAM2005/leetcode/tree/master/0190-reverse-bits) |
 ## String
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AryaAM2005/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/AryaAM2005/leetcode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/AryaAM2005/leetcode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/AryaAM2005/leetcode/tree/master/0067-add-binary) |
 | [0087-scramble-string](https://github.com/AryaAM2005/leetcode/tree/master/0087-scramble-string) |
 | [0212-word-search-ii](https://github.com/AryaAM2005/leetcode/tree/master/0212-word-search-ii) |
 | [0290-word-pattern](https://github.com/AryaAM2005/leetcode/tree/master/0290-word-pattern) |
