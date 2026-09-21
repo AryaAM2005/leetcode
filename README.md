@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AryaAM2005/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AryaAM2005/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/AryaAM2005/leetcode/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/AryaAM2005/leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AryaAM2005/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/AryaAM2005/leetcode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/AryaAM2005/leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/AryaAM2005/leetcode/tree/master/0143-reorder-list) |
