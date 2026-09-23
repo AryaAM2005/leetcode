@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AryaAM2005/leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/AryaAM2005/leetcode/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/AryaAM2005/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/AryaAM2005/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/AryaAM2005/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/AryaAM2005/leetcode/tree/master/0048-rotate-image) |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AryaAM2005/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/AryaAM2005/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
