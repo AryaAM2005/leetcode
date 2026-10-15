@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/AryaAM2005/leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/AryaAM2005/leetcode/tree/master/0067-add-binary) |
 | [0087-scramble-string](https://github.com/AryaAM2005/leetcode/tree/master/0087-scramble-string) |
+| [0093-restore-ip-addresses](https://github.com/AryaAM2005/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0212-word-search-ii](https://github.com/AryaAM2005/leetcode/tree/master/0212-word-search-ii) |
 | [0290-word-pattern](https://github.com/AryaAM2005/leetcode/tree/master/0290-word-pattern) |
 ## Backtracking
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/AryaAM2005/leetcode/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/AryaAM2005/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/AryaAM2005/leetcode/tree/master/0077-combinations) |
+| [0093-restore-ip-addresses](https://github.com/AryaAM2005/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0212-word-search-ii](https://github.com/AryaAM2005/leetcode/tree/master/0212-word-search-ii) |
 ## Trie
 |  |
